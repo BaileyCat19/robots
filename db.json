@@ -1,0 +1,28 @@
+{
+  "robots": [
+    {
+      "id": 1,
+      "name": "Bumble Bee",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": true,
+        "hasTracks": true,
+        "numberOfRotors": 5,
+        "Colour": "yellow"
+      },
+      "statuses": ["onFire", "rusty", "looseScrews", "paintScratched"]
+    },
+    {
+      "id": 2,
+      "name": "Mega Man",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 2,
+        "Colour": "blue"
+      },
+      "statuses": ["rusty"]
+    }
+  ]
+}
