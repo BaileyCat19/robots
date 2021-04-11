@@ -10,8 +10,8 @@ class Robot extends React.Component {
   render() {
     return (
       <div>
-        <h2>Demo - React, Redux and Redux-Saga</h2>
-            <RobotList/>
+        <h2>React, Redux, JSON Server and Redux-Saga</h2>
+        <RobotList/>
       </div>
     );
   }
